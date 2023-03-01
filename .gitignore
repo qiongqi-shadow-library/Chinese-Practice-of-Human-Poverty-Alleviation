@@ -1,0 +1,12 @@
+draft/
+
+*.aux
+*.ent
+*.epub
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
+*.synctex.gz
+*.toc
+*.xdv
